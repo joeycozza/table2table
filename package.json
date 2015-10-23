@@ -1,0 +1,19 @@
+{
+  "name": "table2table",
+  "version": "1.0.0",
+  "description": "This is a joke. Please dont actually use this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeycozza/table2table.git"
+  },
+  "author": "Joey Cozza <joeycozza@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeycozza/table2table/issues"
+  },
+  "homepage": "https://github.com/joeycozza/table2table#readme"
+}
