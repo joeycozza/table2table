@@ -1,6 +1,6 @@
 module.exports = function (tableData) {
   if (!Array.isArray(tableData) || !Array.isArray(tableData[0])) {
-    return 'How dare you not pass be table data. I hope this ruins your object';
+    return 'How dare you not pass me table data. I hope this ruins your object';
   }
 
   tableData = tableData.map(function (row) {
